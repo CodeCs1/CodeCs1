@@ -3,7 +3,7 @@ CodeCs1 (stand for Code-C# v1)
 
 # About CodeCs1
 CodeCs1 is a normal programmer
-using C++, C#, arhbasic (made in C#) as the main programming language.
+using C++, C# as the main programming language.
 
 Target:
   - Make custom LFS System (Hibiki Duwuca)
