@@ -1,12 +1,13 @@
 CodeCs1 (stand for Code-C# v1)
-<p>This github page is nothing (except TerminalOS prepair to add)</p>
 
-# About CodeCs1
-CodeCs1 is a normal programmer
-using C++, C# as the main programming language.
-
-Target:
-  - Make custom LFS System (Hibiki Duwuca)
-  - Make a remake version of TerminalOS (C++ Emulator)
-
-end. =)
+## About CodeCs1
+CodeCs1 is a normal programmer (ofc).
+* I do thing that no one gonna made (Don't ask me why.)
+----
+The programming language that I used most:
+| Name   | Persent time usage |
+|--------|--------------------|
+| Python |       ~50%         |
+| C#     |        35%         |
+| Other  |        15%         |
+-------------------------------
