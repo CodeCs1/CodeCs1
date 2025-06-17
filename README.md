@@ -19,7 +19,7 @@
 
 ## 📊 My statistics
 <p>
-  <img align="right" height="439px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCs1&theme=tokyonight&hide_border=true">
+  <img align="right" height="439px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCs1&theme=tokyonight&hide_border=true">
   <img width="495px" src="https://github-readme-stats.vercel.app/api?username=CodeCs1&theme=tokyonight&show=discussions_started&show_icons=true&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCs1&theme=tokyonight&hide_border=true">
 </p>
